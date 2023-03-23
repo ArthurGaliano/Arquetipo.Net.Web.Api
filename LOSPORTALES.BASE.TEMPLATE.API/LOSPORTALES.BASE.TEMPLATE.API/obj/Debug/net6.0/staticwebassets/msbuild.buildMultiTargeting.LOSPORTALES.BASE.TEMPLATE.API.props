@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LOSPORTALES.BASE.TEMPLATE.API.props" />
+</Project>

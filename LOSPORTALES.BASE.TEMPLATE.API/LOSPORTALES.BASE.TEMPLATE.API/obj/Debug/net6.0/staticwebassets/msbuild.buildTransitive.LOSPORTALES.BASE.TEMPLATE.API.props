@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LOSPORTALES.BASE.TEMPLATE.API.props" />
+</Project>
